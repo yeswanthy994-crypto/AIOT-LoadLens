@@ -1,0 +1,17 @@
+../Core/Src/main.c:89:5:main	64	static
+../Core/Src/main.c:215:6:SystemClock_Config	88	static
+../Core/Src/main.c:263:5:_write	24	static
+../Core/Src/main.c:271:6:Motor_Forward	8	static
+../Core/Src/main.c:279:6:Motor_Stop	8	static
+../Core/Src/main.c:287:6:Alert_Set	16	static
+../Core/Src/main.c:295:7:Read_LM35_Temperature	24	static
+../Core/Src/main.c:313:16:Classify_Airflow	16	static
+../Core/Src/main.c:326:6:Apply_Safe_Profile	16	static
+../Core/Src/main.c:342:13:LCD_WriteNibble	32	static
+../Core/Src/main.c:355:6:lcd_send_cmd	16	static
+../Core/Src/main.c:363:6:lcd_send_data	16	static
+../Core/Src/main.c:368:6:lcd_clear	8	static
+../Core/Src/main.c:373:6:lcd_put_cur	24	static
+../Core/Src/main.c:378:6:lcd_init	8	static
+../Core/Src/main.c:412:6:lcd_send_string	16	static
+../Core/Src/main.c:424:6:Error_Handler	4	static,ignoring_inline_asm
